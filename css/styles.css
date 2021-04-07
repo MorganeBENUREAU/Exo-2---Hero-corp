@@ -1,0 +1,128 @@
+body {
+    background-color: #d3d3d3;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+div {
+    background-color: white;
+    border: 1px black solid;
+    width: 760px;
+    margin: 10px auto;
+}
+
+header img {
+    margin-top: 15px;
+}
+
+header h1 {
+    border-top:#8B0300 solid 2px;
+    border-bottom:#8B0300 solid 2px;
+    margin: 10px;
+    padding: 10px;
+}
+
+header .av {
+    font-weight: bold;
+    font-size: 3em;
+    padding: 10px;
+    font-family: "oswald", sans-serif;
+}
+
+header .em {
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    font-size: 0.9em;
+    padding: 5px 10px;
+    margin-bottom: 10;
+}
+
+main {
+    background-color: #eee;
+    margin: 15px 80px;
+}
+
+.pres {
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: 35px 0;
+    font-family: "oswald", sans-serif;
+}
+
+section img {
+    width: 90px;
+    margin-bottom: 20px;
+}
+
+p {
+    padding-bottom: 15px;
+    margin: 0 15px;
+    text-align: justify;
+}
+
+strong {
+    font-weight: bold;
+}
+
+#petit {
+    font-style: italic;
+    font-size: 0.9em;
+    border-top: 1px solid black;
+    padding-top: 15px;
+}
+
+.syno {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #8B0300;
+    padding-bottom: 15px;
+    font-family: "oswald", sans-serif;
+}
+
+footer {
+    background-color: #eee;
+    margin: 15px;
+}
+
+footer p {
+    text-align: center;
+    padding: 25px 0 60px 0;
+    font-size: 0.9em;
+}
+
+.prin {
+    background-color: white;
+}
+
+.titleprin {
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: 20px 0;
+    font-family: "oswald", sans-serif;
+}
+
+.acteurs {
+    background-color: #eee;
+    text-align: center;
+    padding: 5px 0;
+    margin-bottom: 5px;
+    border-radius: 30px;
+    color: #8B0300;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+.acteurs:hover {
+    background-color: blue;
+    color: greenyellow;
+}
+
+.image {
+    background-color: white;
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: 10px 0;
+    margin: 0;
+    font-family: "oswald", sans-serif;
+}
